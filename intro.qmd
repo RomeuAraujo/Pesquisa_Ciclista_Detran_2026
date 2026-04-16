@@ -3,37 +3,184 @@
   body{text-align: justify}
 </style>
 ```
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
 
+# INTRODUÇÃO
+
+A mobilidade urbana sustentável ocupa posição central no debate contemporâneo sobre planejamento urbano, políticas públicas e qualidade de vida nas cidades. Entre os diversos modos de transporte, a bicicleta destaca-se por sua elevada eﬁciência energética, baixo custo operacional e impactos positivos sobre a saúde individual e coletiva, sendo amplamente reconhecida como instrumento estratégico para a redução de congestionamentos, emissões de poluentes e desigualdades no acesso ao espaço urbano (BANISTER, 2008; PUCHER; BUEHLER, 2012).
+
+No contexto brasileiro, apesar dos avanços recentes na produção de estatísticas públicas sobre mobilidade --- impulsionados por pesquisas domiciliares, levantamentos amostrais e sistemas administrativos --- persiste uma lacuna relevante quanto à caracterização sistemática dos usuários de modos ativos, especialmente dos ciclistas urbanos. Grande parte dos estudos nacionais aborda a bicicleta de forma agregada ou secundária, o que limita a compreensão aprofundada de padrões de uso, motivações individuais e barreiras estruturais associadas à mobilidade ciclística (VASCONCELLOS, 2014).
+
+No estado do Pará, essa lacuna é ainda mais pronunciada. A inexistência de bases de dados especíﬁcas e atualizadas sobre o perﬁl do ciclista urbano compromete o planejamento de políticas públicas orientadas por evidências, diﬁcultando a priorização de investimentos em infraestrutura cicloviária, segurança viária e integração modal. Nesse sentido, a realização de pesquisas de campo com coleta de dados primários, padronizados e comparáveis, torna-se fundamental para subsidiar decisões estratégicas no âmbito da gestão pública.
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
 
+# OBJETIVOS
 
+## Objetivo Geral
 
+Analisar o perﬁl sociodemográﬁco, os padrões de uso, as motivações e as condições de deslocamento dos usuários de bicicleta no espaço urbano paraense, por meio de um levantamento de campo estruturado, visando subsidiar políticas públicas de mobilidade ativa e segurança viária.
 
-# Introdução {.unnumbered}
+## Objetivos Específicos
 
-
-
-A mobilidade urbana sustentável ocupa posição central no debate contemporâneo sobre planejamento urbano, políticas públicas e qualidade de vida nas cidades. Entre os diversos modos de transporte, a bicicleta destaca-se por sua elevada eﬁciência energética, baixo custo operacional e impactos positivos sobre a saúde individual e coletiva, sendo amplamente reconhecida como instrumento estratégico para a redução de congestionamentos, emissões de poluentes e desigualdades no acesso ao espaço urbano (BANISTER, 2008; PUCHER; BUEHLER, 2012). 
-
-No contexto brasileiro, apesar dos avanços recentes na produção de estatísticas públicas sobre mobilidade — impulsionados por pesquisas domiciliares, levantamentos amostrais e sistemas administrativos — persiste uma lacuna relevante quanto à caracterização sistemática dos usuários de modos ativos, especialmente dos ciclistas urbanos. Grande parte dos estudos nacionais aborda a bicicleta de forma agregada ou secundária, o que limita a compreensão aprofundada de padrões de uso, motivações individuais e barreiras estruturais associadas à mobilidade ciclística (VASCONCELLOS, 2014). 
-
-No estado do Pará, essa lacuna é ainda mais pronunciada. A inexistência de bases de dados especíﬁcas e atualizadas sobre o perﬁl do ciclista urbano compromete o planejamento de políticas públicas orientadas por evidências, diﬁcultando a priorização de investimentos em infraestrutura cicloviária, segurança viária e integração modal. Nesse sentido, a realização de pesquisas de campo com coleta de dados primários, padronizados e comparáveis, torna-se fundamental para subsidiar decisões estratégicas no âmbito da gestão pública. 
+-   Caracterizar a frequência de uso da bicicleta como meio de transporte urbano;\
+-   Identiﬁcar os principais motivos associados às viagens realizadas por bicicleta;
+-   Analisar o tempo de utilização da bicicleta como modo de transporte ao longo da vida dos respondentes;
+-   Avaliar o uso e a disponibilidade de infraestrutura cicloviária nos trajetos realizados;\
+-   Caracterizar o perﬁl etário, educacional e de renda dos usuários de bicicleta;
+-   Produzir indicadores estatísticos que permitam comparações temporais e territoriais
 
 ::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
 :::
 
+# MATERIAL E MÉTODOS
 
+## População Alvo
 
+A população-alvo da pesquisa é composta por indivíduos com idade igual ou superior a 12 anos que utilizam a bicicleta como meio de transporte ao menos uma vez por semana em ambiente urbano. Incluem-se usuários que estejam, no momento da abordagem, utilizando, estacionando ou conduzindo a bicicleta a pé.
 
+Do ponto de vista conceitual, distingue-se a população-alvo conjunto teórico sobre o qual se deseja inferir da população efetivamente investigada, limitada pelas condições operacionais da coleta. A inexistência de cadastros formais ou registros administrativos que identiﬁquem usuários de bicicleta inviabiliza a adoção de métodos clássicos de amostragem probabilística, como amostragem aleatória simples ou estratiﬁcada (Lohr, 2019).
 
+Os resultados da pesquisa serão interpretados sob a perspectiva de inferência analítica, buscando identiﬁcar padrões, associações e regularidades empíricas no uso da bicicleta, e não estimativas pontuais representativas da totalidade da população de ciclistas
 
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
 
+## Estratégia Amostral
 
+Diante dessas limitações, será adotada uma estratégia de amostragem não probabilística por interceptação em pontos estratégicos da malha urbana, tais como vias arteriais, ciclovias, áreas comerciais, polos geradores de viagens e equipamentos públicos. Essa abordagem é amplamente utilizada em pesquisas de mobilidade ativa e transporte urbano, especialmente quando o universo populacional é desconhecido ou de difícil mensuração (Stopher & Jones, 2003).
 
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
 
+## Tamanho da Amostra
+
+O tamanho da amostra será deﬁnido a partir de estimativas do universo de ciclistas fornecidas por fontes secundárias, como o Sistema de Informações da Mobilidade Urbana da Associação Nacional de Transportes Públicos (ANTP), combinadas com critérios operacionais e recursos disponíveis. Embora não permita inferência estatística estrita para toda a população, essa abordagem possibilita a construção de diagnósticos robustos e indicativos para formulação de políticas públicas. Adota-se, para ﬁns operacionais, um erro amostral máximo de 10 %, compatível com levantamentos exploratórios em populações de difícil mensuração, conforme práticas consolidadas em pesquisas de mobilidade urbana.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Instrumento de Pesquisa
+
+O instrumento de coleta consiste em um questionário estruturado, composto predominantemente por perguntas fechadas, elaborado com base em referenciais metodológicos de pesquisas nacionais e internacionais sobre mobilidade ativa e comportamento do ciclista urbano (HEINEN; VAN WEE; MAAT, 2010; PUCHER; BUEHLER, 2017). O questionário foi concebido de modo a equilibrar abrangência temática e simplicidade operacional, viabilizando sua aplicação em campo.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Dimenssão Nacional de Mobilidade por Ciclista
+
+Estudos nacionais recentes apontam que o uso da bicicleta como meio de transporte ainda é uma prática minoritária quando considerada em nível agregado, embora existam concentrações mais elevadas em contextos urbanos especíﬁcos. De acordo com dados do Sistema de Informações da Mobilidade Urbana (SIMOB) da Associação Nacional de Transportes Públicos (ANTP), nos municípios brasileiros com mais de 60 mil habitantes, cerca de 3,0 % das viagens registradas são realizadas por bicicleta --- um percentual que, embora modesto, indica a presença contínua desse modal nas dinâmicas urbanas brasileiras.
+
+Além disso, estima-se, em relatórios técnicos sobre a economia da bicicleta, que a participação do modal ciclístico no conjunto de viagens em cidades maiores pode alcançar cerca de 4 % do total de deslocamentos, sugerindo a existência de milhões de ciclistas no país quando extrapolado para a população urbana geral. Esses indicadores reforçam a necessidade de cobertura territorial ampla em estudos sobre mobilidade ciclística, pois mesmo percentual aparentemente baixo representa um contingente social relevante e heterogêneo em diferentes regiões.
+
+Os dados mais recentes do Censo Demográﬁco do Instituto Brasileiro de Geograﬁa e Estatística (IBGE) evidenciam que a infraestrutura cicloviária urbana ainda é incipiente no Brasil. Segundo análise dos dados do Censo 2022, apenas cerca de 1,9 % da população urbana reside em ruas com algum tipo de infraestrutura cicloviária (ciclovias, ciclofaixas ou ciclorrotas). Essa realidade nacional indica que a presença de infraestrutura cicloviária é desigual e, muitas vezes, concentrada em grandes centros urbanos, sendo ainda incipiente ou inexistente em cidades de médio e pequeno porte. Isso reforça a importância de incluir municípios de diferentes portes e contextos territoriais na amostragem, de modo a compreender a diversidade de situações enfrentadas pelos ciclistas.
+
+Levantamentos sobre o perﬁl do ciclista brasileiro em contextos urbanos demonstram que os ciclistas tendem a pedalar com alta frequência (em muitos casos cinco ou mais dias por semana) e usam a bicicleta predominantemente para deslocamentos cotidianos, como trabalho e estudo, quando há condições minimamente favoráveis para tanto. Pesquisas conduzidas em diversas cidades do país mostram que mais de 70 % dos entrevistados usam a bicicleta cinco ou mais vezes por semana e que a infraestrutura adequada é um dos principais fatores estimuladores do uso do modal.
+
+Estes padrões observados, ainda que provenientes de amostras não probabilísticas ou de cidades especíﬁcas, corroboram a necessidade de diversiﬁcar a amostra de municípios em termos de contexto urbano, densidade populacional e estrutura de mobilidade, para que a pesquisa estadual no Pará capture tanto experiências de uso consolidado como situações de baixo uso potencial.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Critérios de Seleção de Municípios
+
+A adoção de Regiões de Integração como estratos para a seleção dos municípios baseia-se em princípios metodológicos consolidados em amostragem estratiﬁcada: a estratiﬁcação por unidades territoriais homogêneas (regiões) reduz a variabilidade intraestrata e aumenta a comparabilidade entre diferentes contextos territoriais (LOHR, 2019).
+
+No caso do Pará, adotam-se quatro municípios por Região de Integração por meio de critérios combinados de:
+
+-   Porte populacional, para assegurar a presença de cidades grandes, médias e pequenas em cada estrato;
+-   Função urbana e polarização regional, de modo a incluir centros econômicos, polos administrativos e cidades com dinâmica demográﬁca relevante;
+-   Diversidade de infraestrutura e mobilidade urbana, garantindo a inclusão tanto de municípios com históricas práticas ciclísticas como de contextos emergentes ou com baixa infraestrutura cicloviária.
+
+Este desenho amostral permite que a pesquisa não apenas descreva padrões em contextos urbanizados mais intensos, mas também identiﬁque barreiras e oportunidades para a promoção da mobilidade por bicicleta em áreas com menor densidade populacional ou menor foco tradicional em políticas cicloviárias.
+
+# INSTRUÇÃO GERAL PARA ENTREVISTA
+
+Na coleta dos dados a atuação do pesquisador junto ao informante é fundamental para garantir o sucesso da pesquisa, uma vez que todas as etapas subsequentes dependem da qualidade e da precisão dos dados coletados.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Cuidados na Abordagem do Informante
+
+o fator decisivo para a realização de uma entrevista é o contato inicial. Não há regras rígidas ou procedimentos a seguir, mas algumas orientações podem ser úteis para que a primeira abordagem ao informante seja bem-sucedida.
+
+-   Mantenha-se sempre identiﬁcado, dispondo, quando for o caso, o seu crachá, camiseta do DETRAN-PA, ou qualquer outro dispositivo de identiﬁcação em posição bem visível;
+-   Separa com antecedência todo o material de coleta e seu kit de trabalho;
+-   Apresente-se ao informante:
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+## Desenvolvimento da Pesquisa
+
+Algumas orientações podem ser úteis para garantir a qualidade das informações coletadas:
+
+-   Procure manter o clima de cordialidade, o que implica em despertar a conﬁança do informante, tratando-o sempre com cortesia e resperito;
+-   Direcione a entrevista apenas à coleta dos dados, evitando assuntos alheios aos propósitos de sua abordagem;
+-   Não aceitar convito à discussão de outras questões que não aquelas relativas à pesquisa em questão e não se envolva em bate-papo antes, durante e depois da entrevista;
+-   Leia, integral e pausadamente, todas as perguntas, respeitando a ordem em que aparecem no questionário;
+-   Faça as perguntas de maneira direta e positiva, procurando demonstrar que todas as questões apresentadas são importantes;
+-   Quando a pergunta contiver várias alternativas de resposta, leia pausadamente cada alternativa, permitindo que o informante compreenda e responda de acordo com sua situação;
+-   Procure não o interromper enquanto ele estiver falando, aguardando o informante concluir sua resposta para registrar a informação;
+-   Esforce-se para não esboçar reações ante as respostas colhidas;
+-   Efetue todas as perguntas e registre todas as respostas, veriﬁcando ao ﬁnal da entrevista, se o questionário está totalmente preenchido.
+-   Não formule as perguntas com suas próprias palavas, pois corre o risco de obter informações equivocadas e incorretas;
+-   Evite os modismos, termos regionais, gírias e sujeições;
+-   Não interprete as respostas com base em impressões pessoais.
+-   Formuladas todas as perguntas, veriﬁque se o questionário está devidamente preenchido. Caso existam algumas lacunas ou dúvidas no preenchimento do questionário, procure esclarecê-las imediatamente com o informante;
+-   Sem mais, despeça-se, agradecendo-lhe a atenção e colaboração.
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+# REFERÊNCIAS BIBLIOGRÁFICA
+
+BANISTER, David. The sustainable mobility paradigm. Transport Policy, v. 15, n.2, p.73--80, 2008.
+
+HEINEN, Eva; VAN WEE, Bert; MAAT, Kees. Commuting by bicycle: An overview of the literature. Transport Reviews, v. 30, n.1, p.59--96, 2010.
+
+LOHR, Sharon L. Sampling: Design and Analysis. 2. ed.Boca Raton: Chapman & Hall/CRC, 2019.
+
+PENG, Roger D. Reproducible research in computational science. Science, v. 334, n.6060, p.1226--1227, 2011.
+
+PUCHER, John; BUEHLER, Ralph. Making cycling irresistible: Lessons from the Netherlands, Denmark and Germany. Transport Reviews, v. 28, n.4, p.495--528, 2008.
+
+PUCHER, John; BUEHLER, Ralph. Cycling for everyone: Lessons from Europe. Transport Reviews, v. 29, n.4, p.475--500, 2009.
+
+PUCHER, John; BUEHLER, Ralph. City cycling. Cambridge: MIT Press, 2012.
+
+PUCHER, John; BUEHLER, Ralph. Cycling towards a more sustainable transport future. Transport Reviews, v. 37, n.6, p.689--694, 2017.
+
+STOPHER, Peter R.; JONES, Peter M. Transport survey quality and innovation. Oxford: Pergamon, 2003.
+
+VASCONCELLOS, Eduardo Alcântara de. Mobilidade urbana e cidadania. São Paulo: SENAC, 2014
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
