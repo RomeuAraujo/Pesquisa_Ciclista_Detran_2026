@@ -1,0 +1,27 @@
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+
+# Prefácio {.unnumbered}
+
+A presente pesquisa tem como objetivo analisar o perﬁl sociodemográﬁco, os padrões de uso, as motivações e as condições de deslocamento dos usuários de bicicleta no Estado do Pará, com vistas a subsidiar a formulação de políticas públicas orientadas por evidências na área de mobilidade urbana sustentável. Considerando a inexistência de bases administrativas consolidadas sobre ciclistas urbanos no contexto estadual, adotou-se metodologia baseada na coleta de dados primários por meio de questionário estruturado, aplicado em campo mediante estratégia de amostragem não probabilística por interceptação em pontos estratégicos da malha urbana. O instrumento contempla variáveis relativas à frequência e ﬁnalidade das viagens, tempo de utilização do modal, percepção de segurança viária, uso de infraestrutura cicloviária, ocorrência de acidentes e situações de risco, bem como características demográﬁcas e socioeconômicas dos respondentes. Para ﬁns operacionais, estabelece-se erro amostral máximo de 10%, compatível com estudos exploratórios em populações de difícil mensuração. Espera-se que os resultados produzam diagnóstico inédito sobre o ciclista urbano paraense, contribuindo para o planejamento de ações voltadas à mobilidade ativa, segurança no trânsito e ampliação da infraestrutura cicloviária em diferentes contextos territoriais do estado.
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+

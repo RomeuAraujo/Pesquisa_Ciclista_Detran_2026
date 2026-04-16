@@ -1,0 +1,39 @@
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+
+# Introdução {.unnumbered}
+
+
+
+A mobilidade urbana sustentável ocupa posição central no debate contemporâneo sobre planejamento urbano, políticas públicas e qualidade de vida nas cidades. Entre os diversos modos de transporte, a bicicleta destaca-se por sua elevada eﬁciência energética, baixo custo operacional e impactos positivos sobre a saúde individual e coletiva, sendo amplamente reconhecida como instrumento estratégico para a redução de congestionamentos, emissões de poluentes e desigualdades no acesso ao espaço urbano (BANISTER, 2008; PUCHER; BUEHLER, 2012). 
+
+No contexto brasileiro, apesar dos avanços recentes na produção de estatísticas públicas sobre mobilidade — impulsionados por pesquisas domiciliares, levantamentos amostrais e sistemas administrativos — persiste uma lacuna relevante quanto à caracterização sistemática dos usuários de modos ativos, especialmente dos ciclistas urbanos. Grande parte dos estudos nacionais aborda a bicicleta de forma agregada ou secundária, o que limita a compreensão aprofundada de padrões de uso, motivações individuais e barreiras estruturais associadas à mobilidade ciclística (VASCONCELLOS, 2014). 
+
+No estado do Pará, essa lacuna é ainda mais pronunciada. A inexistência de bases de dados especíﬁcas e atualizadas sobre o perﬁl do ciclista urbano compromete o planejamento de políticas públicas orientadas por evidências, diﬁcultando a priorização de investimentos em infraestrutura cicloviária, segurança viária e integração modal. Nesse sentido, a realização de pesquisas de campo com coleta de dados primários, padronizados e comparáveis, torna-se fundamental para subsidiar decisões estratégicas no âmbito da gestão pública. 
+
+::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+:::
+
+
+
+
+
+
+
+
+
+
