@@ -3,10 +3,11 @@
   body{text-align: justify}
 </style>
 ```
-::: progress
+
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 # INTRODUÇÃO
 
@@ -16,10 +17,10 @@ No contexto brasileiro, apesar dos avanços recentes na produção de estatísti
 
 No estado do Pará, essa lacuna é ainda mais pronunciada. A inexistência de bases de dados especíﬁcas e atualizadas sobre o perﬁl do ciclista urbano compromete o planejamento de políticas públicas orientadas por evidências, diﬁcultando a priorização de investimentos em infraestrutura cicloviária, segurança viária e integração modal. Nesse sentido, a realização de pesquisas de campo com coleta de dados primários, padronizados e comparáveis, torna-se fundamental para subsidiar decisões estratégicas no âmbito da gestão pública.
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 # OBJETIVOS
 
@@ -36,10 +37,10 @@ Analisar o perﬁl sociodemográﬁco, os padrões de uso, as motivações e as 
 -   Caracterizar o perﬁl etário, educacional e de renda dos usuários de bicicleta;
 -   Produzir indicadores estatísticos que permitam comparações temporais e territoriais
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 # MATERIAL E MÉTODOS
 
@@ -51,37 +52,285 @@ Do ponto de vista conceitual, distingue-se a população-alvo conjunto teórico 
 
 Os resultados da pesquisa serão interpretados sob a perspectiva de inferência analítica, buscando identiﬁcar padrões, associações e regularidades empíricas no uso da bicicleta, e não estimativas pontuais representativas da totalidade da população de ciclistas
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## Estratégia Amostral
 
 Diante dessas limitações, será adotada uma estratégia de amostragem não probabilística por interceptação em pontos estratégicos da malha urbana, tais como vias arteriais, ciclovias, áreas comerciais, polos geradores de viagens e equipamentos públicos. Essa abordagem é amplamente utilizada em pesquisas de mobilidade ativa e transporte urbano, especialmente quando o universo populacional é desconhecido ou de difícil mensuração (Stopher & Jones, 2003).
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## Tamanho da Amostra
 
-O tamanho da amostra será deﬁnido a partir de estimativas do universo de ciclistas fornecidas por fontes secundárias, como o Sistema de Informações da Mobilidade Urbana da Associação Nacional de Transportes Públicos (ANTP), combinadas com critérios operacionais e recursos disponíveis. Embora não permita inferência estatística estrita para toda a população, essa abordagem possibilita a construção de diagnósticos robustos e indicativos para formulação de políticas públicas. Adota-se, para ﬁns operacionais, um erro amostral máximo de 10 %, compatível com levantamentos exploratórios em populações de difícil mensuração, conforme práticas consolidadas em pesquisas de mobilidade urbana.
+O tamanho da amostra será deﬁnido a partir de estimativas do universo de ciclistas fornecidas por fontes secundárias, como o Sistema de Informações da Mobilidade Urbana da Associação Nacional de Transportes Públicos (ANTP), combinadas com critérios operacionais e recursos disponíveis. Embora não permita inferência estatística estrita para toda a população, essa abordagem possibilita a construção de diagnósticos robustos e indicativos para formulação de políticas públicas. 
 
-::: progress
+Adota-se, para ﬁns operacionais, um erro amostral máximo de 10 %, compatível com levantamentos exploratórios em populações de difícil mensuração, conforme práticas consolidadas em pesquisas de mobilidade urbana.
+
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## Instrumento de Pesquisa
 
 O instrumento de coleta consiste em um questionário estruturado, composto predominantemente por perguntas fechadas, elaborado com base em referenciais metodológicos de pesquisas nacionais e internacionais sobre mobilidade ativa e comportamento do ciclista urbano (HEINEN; VAN WEE; MAAT, 2010; PUCHER; BUEHLER, 2017). O questionário foi concebido de modo a equilibrar abrangência temática e simplicidade operacional, viabilizando sua aplicação em campo.
 
-::: progress
+
+
+```{=html}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Questionário</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+.container {
+    column-count: 2;
+    column-gap: 40px;
+}
+
+.pergunta {
+    margin-bottom: 20px;
+}
+
+.pergunta strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.opcao {
+    margin-left: 10px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="pergunta">
+<strong>1. Qual tipo de bicicleta você mais utiliza?</strong>
+<div class="opcao">(1) Bicicleta Convencional</div>
+<div class="opcao">(2) Bicicleta Compartilhada</div>
+<div class="opcao">(3) Bicicleta Elétrica</div>
+<div class="opcao">(4) Patinete</div>
+</div>
+
+<div class="pergunta">
+<strong>2. Qual seu Gênero?</strong>
+<div class="opcao">(1) Masculino</div>
+<div class="opcao">(2) Feminino</div>
+<div class="opcao">(3) Outros</div>
+</div>
+
+<div class="pergunta">
+<strong>3. Qual a sua Faixa Etária?</strong>
+<div class="opcao">(1) 12 a 18 anos</div>
+<div class="opcao">(2) 19 a 29 anos</div>
+<div class="opcao">(3) 30 a 49 anos</div>
+<div class="opcao">(4) 50 a 64 anos</div>
+<div class="opcao">(5) 65 anos ou mais</div>
+</div>
+
+<div class="pergunta">
+<strong>4. Como você se autodeclara em relação à Cor/Raça?</strong>
+<div class="opcao">(1) Preta</div>
+<div class="opcao">(2) Parda</div>
+<div class="opcao">(3) Amarela</div>
+<div class="opcao">(4) Indígena</div>
+<div class="opcao">(5) Branca</div>
+</div>
+
+<div class="pergunta">
+<strong>5. Qual é o nível de escolaridade?</strong>
+<div class="opcao">(1) Sem instrução</div>
+<div class="opcao">(2) Ensino Fundamental</div>
+<div class="opcao">(3) Ensino Médio</div>
+<div class="opcao">(4) Ensino Superior</div>
+<div class="opcao">(5) Pós-graduação</div>
+</div>
+
+<div class="pergunta">
+<strong>6. Qual a sua profissão?</strong>
+<div class="opcao">(1) Trabalhador formal</div>
+<div class="opcao">(2) Trabalhador informal</div>
+<div class="opcao">(3) Estudante</div>
+<div class="opcao">(4) Autônomo</div>
+<div class="opcao">(5) Aposentado</div>
+<div class="opcao">(6) Desempregado</div>
+<div class="opcao">(7) Outro</div>
+</div>
+
+<div class="pergunta">
+<strong>7. Qual a sua renda familiar mensal aproximada?</strong>
+<div class="opcao">(1) Sem renda</div>
+<div class="opcao">(2) Menos de 1 salário mínimo</div>
+<div class="opcao">(3) De 1 a 3 salários mínimos</div>
+<div class="opcao">(4) De 4 a 6 salários mínimos</div>
+<div class="opcao">(5) Acima de 6 salários mínimos</div>
+</div>
+
+<div class="pergunta">
+<strong>8. Com que frequência você utiliza a bicicleta?</strong>
+<div class="opcao">(1) 1 a 2 dias por semana</div>
+<div class="opcao">(2) 3 a 4 dias por semana</div>
+<div class="opcao">(3) 5 a 6 dias por semana</div>
+<div class="opcao">(4) Todos os dias</div>
+</div>
+
+<div class="pergunta">
+<strong>9. Tempo médio do trajeto?</strong>
+<div class="opcao">(1) Até 10 minutos</div>
+<div class="opcao">(2) Até 20 minutos</div>
+<div class="opcao">(3) Até 30 minutos</div>
+<div class="opcao">(4) Até 60 minutos</div>
+<div class="opcao">(5) Mais de 1 hora</div>
+</div>
+
+<div class="pergunta">
+<strong>10. Há quanto tempo usa bicicleta?</strong>
+<div class="opcao">(1) Menos de 6 meses</div>
+<div class="opcao">(2) 6 meses a 1 ano</div>
+<div class="opcao">(3) 1 a 2 anos</div>
+<div class="opcao">(4) 2 a 3 anos</div>
+<div class="opcao">(5) 3 a 4 anos</div>
+<div class="opcao">(6) Mais de 6 anos</div>
+</div>
+
+<div class="pergunta">
+<strong>11. Qual o príncipal destino da sua viagem atual?</strong>
+<div class="opcao">(1) Trabalho</div>
+<div class="opcao">(2) Estudo(Escola/Faculdade)</div> 
+<div class="opcao">(3) Compras ou serviços</div>
+<div class="opcao">(4) Lazer ou atividade sociais</div>
+<div class="opcao">(5) Saúde</div>
+</div>
+
+<div class="pergunta">
+<strong>12. Qual é o principal motivo para o uso de bicicleta como meio de transporte?</strong>
+<div class="opcao">(1) Economia financeira</div>
+<div class="opcao">(2) Rapidez e praticidade</div>
+<div class="opcao">(3) Benefícios à saúde</div>
+<div class="opcao">(4) Sustentabilidade ambiental</div>
+<div class="opcao">(5) Outro</div>
+</div>
+
+<div class="pergunta">
+<strong>13. Você combina a bicicleta com outro meio de transporte?</strong>
+<div class="opcao">(1) Não</div>
+<div class="opcao">(2) Sim, com transporte coletivo</div>
+<div class="opcao">(3) Sim, com transporte individual(Carro/Moto/etc.)</div>
+<div class="opcao">(4) Sim, com caminhada</div>
+</div>
+
+<div class="pergunta">
+<strong>14. Quais equipamentos de segurança você costuma utlizar? (Pode marcar mais de uma opção)</strong>
+<div class="opcao">(1) Capacete</div>
+<div class="opcao">(2) Luva</div>
+<div class="opcao">(3) Colete refletivo</div>
+<div class="opcao">(4) Óculos de proteção</div>
+<div class="opcao">(5) Espelho retrovisor</div>
+<div class="opcao">(6) Campainha(buzina)</div>
+<div class="opcao">(7) Refletores(olho de gato)</div>
+<div class="opcao">(8) Nenhum</div>
+</div>
+
+<div class="pergunta">
+<strong>15. No trajeto que você realiza habitualemte, há utilização de infraestrutura cicloviária?</strong>
+<div class="opcao">(1) Sim, em todo o trajeto</div>
+<div class="opcao">(2) Sim, parte de trajeto</div>
+<div class="opcao">(3) Não há infraestrutura cicloviária</div>
+</div>
+
+<div class="pergunta">
+<strong>16. Você já sofreu ou esteve envolvido em acidente de trânsito enquanto pedalava?</strong>
+<div class="opcao">(1) Sim</div>
+<div class="opcao">(2) Não</div>
+</div>
+
+<div class="pergunta">
+<strong>17. Como você avalia a segurança viária no seu trajeto mais frequente?</strong>
+<div class="opcao">(1) Muito segura</div>
+<div class="opcao">(2) Segura</div>
+<div class="opcao">(3) Indiferente</div>
+<div class="opcao">(4) Pouco segura</div>
+<div class="opcao">(5) Nada segura</div>
+</div>
+
+<div class="pergunta">
+<strong>18. Você já teve sua bicicleta (Ou partes dela) furtada/roubada?</strong>
+<div class="opcao">(1) Sim</div>
+<div class="opcao">(2) Não</div>
+</div>
+
+<div class="pergunta">
+<strong>19. Qual o princial risco percebido ao pedalar?(Pode marcar mais de uma opção)</strong>
+<div class="opcao">(1) Velocidade dos veículos</div>
+<div class="opcao">(2) Falta de infraestrutura</div>
+<div class="opcao">(3) Iluminação inadequada</div>
+<div class="opcao">(4) Criminalidade</div>
+<div class="opcao">(5) Outro</div>
+</div>
+
+<div class="pergunta">
+<strong>20. Você tem conhecimento da existência de sistemas de bicicleta compartilhada em sua cidade?</strong>
+<div class="opcao">(1) Sim</div>
+<div class="opcao">(2) Não</div>
+</div>
+
+<div class="pergunta">
+<strong>21. Após a pandemia da COVID-19, você passou a utlizar mais a bicicleta?</strong>
+<div class="opcao">(1) Sim</div>
+<div class="opcao">(2) Não</div>
+<div class="opcao">(3) Não utilizava antes</div>
+</div>
+
+<div class="pergunta">
+<strong>22. Você considera que o poder público incentiva o uso da bicicleta?</strong>
+<div class="opcao">(1) Sim</div>
+<div class="opcao">(2) Parcialmente</div>
+<div class="opcao">(2) Não</div>
+</div>
+
+<div class="pergunta">
+<strong>23. Você considera que há infraestrutura cicloviária adequada em sua cidade?</strong>
+<div class="opcao">(1) Sim</div>
+<div class="opcao">(2) Não</div>
+</div>
+
+<div class="pergunta">
+<strong>24. Você possui conhecimentos básico sobre comportamento seguro no trânsito para ciclistas (Sentido da via)?</strong>
+<div class="opcao">(1) Sim</div>
+<div class="opcao">(2) Não</div>
+</div>
+</html>
+```
+
+
+```{=latex}
+
+
+```
+
+
+
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## Dimenssão Nacional de Mobilidade por Ciclista
 
@@ -95,10 +344,10 @@ Levantamentos sobre o perﬁl do ciclista brasileiro em contextos urbanos demons
 
 Estes padrões observados, ainda que provenientes de amostras não probabilísticas ou de cidades especíﬁcas, corroboram a necessidade de diversiﬁcar a amostra de municípios em termos de contexto urbano, densidade populacional e estrutura de mobilidade, para que a pesquisa estadual no Pará capture tanto experiências de uso consolidado como situações de baixo uso potencial.
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## Critérios de Seleção de Municípios
 
@@ -112,14 +361,362 @@ No caso do Pará, adotam-se quatro municípios por Região de Integração por m
 
 Este desenho amostral permite que a pesquisa não apenas descreva padrões em contextos urbanizados mais intensos, mas também identiﬁque barreiras e oportunidades para a promoção da mobilidade por bicicleta em áreas com menor densidade populacional ou menor foco tradicional em políticas cicloviárias.
 
+```{=html}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Regiões de Integração</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: left;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+</style>
+</head>
+
+<body>
+
+<h2>Regiões de Integração e Municípios</h2>
+
+<table>
+    <tr>
+        <th>Região de Integração</th>
+        <th>Municípios</th>
+    </tr>
+
+    <tr>
+        <td>Guajará</td>
+        <td>Belém, Ananindeua, Marituba</td>
+    </tr>
+
+    <tr>
+        <td>Guamá</td>
+        <td>Castanhal, Santa Isabel, Vigia</td>
+    </tr>
+    
+    <tr>
+        <td>Rio Caeté</td>
+        <td>Bragrança, Capanema, Salinópolis</td>
+    </tr>
+    
+    <tr>
+        <td>Tocantins</td>
+        <td>Abaetetuba, Barcarena, Tailândia</td>
+    </tr>
+    
+    <tr>
+        <td>Lago de Tucuruí</td>
+        <td>Breu Branco, Tucuruí, Novo Repartimento</td>
+    </tr>    
+        
+    <tr>
+        <td>Carajás</td>
+        <td>Curionóplis, Marabá, Parauapebas</td>
+    </tr>    
+    
+    <tr>
+        <td>Araguaia</td>
+        <td>Floresta do Araguaia, Redenção, Xinguara</td>
+    </tr>
+    
+    <tr>
+        <td>Xingu</td>
+        <td>Altamira, Medicilândia, Vitória do Xingu</td>
+    </tr>
+    
+    <tr>
+        <td>Tapajós</td>
+        <td>Itaituba, Rurópolis, Trairão</td>
+    </tr>
+    
+    <tr>
+        <td>Baixo Amazonas</td>
+        <td>Belterra, Mojuí dos Campos, Santarém</td>
+    </tr>
+    
+    <tr>
+        <td>Marajó</td>
+        <td>Afuá,Breves</td>
+    </tr>
+    
+    <tr>
+        <td>Rio Capim</td>
+        <td>Mãe do Rio, Paragominas, São Miguel do Guamá</td>
+    </tr>
+    
+</table>        
+
+<p><strong>Base de Cálculo: ANTP/IBGE/DETRAN-PA.</strong>
+
+</body>
+
+</html>
+```
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+
+
+
+
+```{=html}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Tabela de Amostra</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h3 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    border-left: none;
+    border-right: none;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+td {
+    vertical-align: top;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+</style>
+</head>
+
+<body>
+
+<h3>Tabela – Tamanho de Amostra por Região de Integração e Municípios (PA, 2026)</h3>
+
+<table>
+<tr>
+    <th>Região de Integração</th>
+    <th>Município</th>
+    <th>Amostra</th>
+</tr>
+
+<tr>
+    <td rowspan="3">Guajará</td>
+    <td>Ananindeua</td>
+    <td>196</td>
+</tr>
+<tr>
+    <td>Belém</td>
+    <td>178</td>
+</tr>
+<tr>
+    <td>Marituba</td>
+    <td>30</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Guamá</td>
+    <td>Castanhal</td>
+    <td>77</td>
+</tr>
+<tr>
+    <td>Santa Isabel</td>
+    <td>25</td>
+</tr>
+<tr>
+    <td>Salinópolis</td>
+    <td>27</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Tocantins</td>
+    <td>Abaetetuba</td>
+    <td>25</td>
+</tr>
+<tr>
+    <td>Barcarena</td>
+    <td>34</td>
+</tr>
+<tr>
+    <td>Tailândia</td>
+    <td>21</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Lago de Tucuruí</td>
+    <td>Breu Branco</td>
+    <td>23</td>
+</tr>
+<tr>
+    <td>Tucuruí</td>
+    <td>36</td>
+</tr>
+<tr>
+    <td>Novo Repartimento</td>
+    <td>22</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Carajás</td>
+    <td>Cuirionópolis</td>
+    <td>22</td>
+</tr>
+<tr>
+    <td>Marabá</td>
+    <td>143</td>
+</tr>
+<tr>
+    <td>Parauapebas</td>
+    <td>131</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Araguaia</td>
+    <td>Floresta de Arauguaia</td>
+    <td>15</td>
+</tr>
+<tr>
+    <td>Redenção</td>
+    <td>59</td>
+</tr>
+<tr>
+    <td>Xinguara</td>
+    <td>31</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Xingu</td>
+    <td>Altamira</td>
+    <td>53</td>
+</tr>
+<tr>
+    <td>Medicilândia</td>
+    <td>21</td>
+</tr>
+<tr>
+    <td>Vitória do Xingu</td>
+    <td>19</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Tapajós</td>
+    <td>Itaituba</td>
+    <td>50</td>
+</tr>
+<tr>
+    <td>Rurópolis</td>
+    <td>24</td>
+</tr>
+<tr>
+    <td>Trairão</td>
+    <td>23</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Baixo Amazonas</td>
+    <td>Belterra</td>
+    <td>22</td>
+</tr>
+<tr>
+    <td>Mojuí dos Campos</td>
+    <td>21</td>
+</tr>
+<tr>
+    <td>Santarém</td>
+    <td>130</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Marajó</td>
+    <td>Afuá</td>
+    <td>25</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>Breves</td>
+    <td>45</td>
+</tr>
+
+<tr>
+    <td rowspan="3">Rio Capim</td>
+    <td>Mãe do Rio</td>
+    <td>28</td>
+</tr>
+<tr>
+    <td>Paragominas</td>
+    <td>54</td>
+</tr>
+<tr>
+    <td>São Miguel do Guamá</td>
+    <td>29</td>
+</tr>
+</table>
+
+<p><strong>Base de cálculo:</strong> IBGE / DETRAN-PA, 2026.</p>
+
+</body>
+</html>
+
+```
+
+
+
+
+
+
+
+
+
+
+
 # INSTRUÇÃO GERAL PARA ENTREVISTA
 
 Na coleta dos dados a atuação do pesquisador junto ao informante é fundamental para garantir o sucesso da pesquisa, uma vez que todas as etapas subsequentes dependem da qualidade e da precisão dos dados coletados.
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## Cuidados na Abordagem do Informante
 
@@ -129,10 +726,10 @@ o fator decisivo para a realização de uma entrevista é o contato inicial. Nã
 -   Separa com antecedência todo o material de coleta e seu kit de trabalho;
 -   Apresente-se ao informante:
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 ## Desenvolvimento da Pesquisa
 
@@ -153,10 +750,10 @@ Algumas orientações podem ser úteis para garantir a qualidade das informaçõ
 -   Formuladas todas as perguntas, veriﬁque se o questionário está devidamente preenchido. Caso existam algumas lacunas ou dúvidas no preenchimento do questionário, procure esclarecê-las imediatamente com o informante;
 -   Sem mais, despeça-se, agradecendo-lhe a atenção e colaboração.
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
 
 # REFERÊNCIAS BIBLIOGRÁFICA
 
@@ -180,7 +777,7 @@ STOPHER, Peter R.; JONES, Peter M. Transport survey quality and innovation. Oxfo
 
 VASCONCELLOS, Eduardo Alcântara de. Mobilidade urbana e cidadania. São Paulo: SENAC, 2014
 
-::: progress
+:::: progress
 ::: {.progress-bar style="width: 100%;"}
 :::
-:::
+::::
